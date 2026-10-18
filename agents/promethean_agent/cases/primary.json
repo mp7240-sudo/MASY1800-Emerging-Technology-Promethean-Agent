@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large-language-model-based generative AI conversational assistants. Evaluate deployed conversational systems, not all AI or hypothetical AGI.",
+  "time_horizon": "Present management decision over the next 12-18 months; analysis date October 17, 2026.",
+  "additional_context": "Hypothetical teaching scenario, not an observed deployment. All organizational details are scenario assumptions; no measured benefits or performance are supplied. Use the same technology boundary and evidence cutoff (October 17, 2026) across cases. Do not invent current sources, outcomes, 10X gains, or a required classification. Chapter 11 (Fortino, August 2026 draft rev 0.1) supplies the working framework; its generative-AI example is not independent empirical proof. Verify external claims or explicitly identify missing verification.",
+  "intended_application": "Client-facing wealth-management risk-tolerance intake: guide questions, clarify and structure client responses, summarize, and route to a human financial advisor. No autonomous suitability decisions, portfolio allocation, or investment recommendations.",
+  "organization": "Hypothetical established regional bank with a wealth-management division.",
+  "industry_sector": "Banking and wealth management.",
+  "business_need": "Investigate whether conversational intake could improve completeness, accessibility, and advisor preparation compared with the assumed existing questionnaire and advisor-led clarification workflow. Benefits remain unmeasured.",
+  "users_stakeholders": "Clients, financial advisors, operations staff, technology staff, and risk/compliance reviewers.",
+  "adoption_posture": "Conservative / risk-averse.",
+  "capabilities_constraints": "Assume an existing advisor-led service and questionnaire workflow. Advisors retain consequential interpretation and recommendations. Budget, bank size, model/vendor, data arrangements, integration capacity, and control effectiveness are unknown.",
+  "risk_consequence_context": "Medium-high by scenario assumption: omitted or misinterpreted client information could influence subsequent financial discussions. Sensitive information and traceability matter; human review is stipulated but its effectiveness is untested.",
+  "management_question": "How much should the broader significance of conversational generative AI influence whether the bank evaluates a bounded intake-and-routing pilot now? Provide a significance perspective, not deployment approval."
+}

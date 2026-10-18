@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large-language-model-based generative AI conversational assistants. Evaluate deployed conversational systems, not all AI or hypothetical AGI.",
+  "time_horizon": "Present management decision over the next 12-18 months; analysis date October 17, 2026.",
+  "additional_context": "Hypothetical teaching scenario, not an observed deployment. All organizational details are scenario assumptions; no measured benefits or performance are supplied. Use the same technology boundary and evidence cutoff (October 17, 2026) across cases. Do not invent current sources, outcomes, 10X gains, or a required classification. Chapter 11 (Fortino, August 2026 draft rev 0.1) supplies the working framework; its generative-AI example is not independent empirical proof. Verify external claims or explicitly identify missing verification.",
+  "intended_application": "Client-facing conversational financial service that would generate individualized portfolio recommendations and allocation suggestions with minimal routine human review.",
+  "organization": "Hypothetical digital wealth-management fintech.",
+  "industry_sector": "Financial technology and wealth management.",
+  "business_need": "Explore broader access to personalized financial guidance and scalable service delivery. Neither financial inclusion nor cost reduction is demonstrated.",
+  "users_stakeholders": "Retail clients, product and engineering teams, financial specialists, management, and risk/compliance reviewers.",
+  "adoption_posture": "Aggressive / leading-edge.",
+  "capabilities_constraints": "Assume a digital delivery channel and a proposed workflow with minimal routine human review. Existing service baseline, licenses, model/vendor, validated financial accuracy, oversight effectiveness, full costs, and implementation capacity are unknown. Do not infer these from the fintech label.",
+  "risk_consequence_context": "High by scenario assumption: incorrect individualized recommendations may expose clients to financial loss. Human authority is materially reduced relative to the bank intake scenario; actual performance is unknown.",
+  "management_question": "Does broader technological significance justify giving this proposed autonomous recommendation application greater strategic priority? Explain the limits of a significance judgment and the evidence needed before stronger management conclusions."
+}

@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large-language-model-based generative AI conversational assistants. Evaluate deployed conversational systems, not all AI or hypothetical AGI.",
+  "time_horizon": "Present management decision over the next 12-18 months; analysis date October 17, 2026.",
+  "additional_context": "Hypothetical teaching scenario, not an observed deployment. All organizational details are scenario assumptions; no measured benefits or performance are supplied. Use the same technology boundary and evidence cutoff (October 17, 2026) across cases. Do not invent current sources, outcomes, 10X gains, or a required classification. Chapter 11 (Fortino, August 2026 draft rev 0.1) supplies the working framework; its generative-AI example is not independent empirical proof. Verify external claims or explicitly identify missing verification.",
+  "intended_application": "Draft summaries and action-item lists from internal administrative meeting notes; employees check drafts against the notes before circulation. Exclude client financial advice and investment decisions.",
+  "organization": "Hypothetical established regional bank with a wealth-management division.",
+  "industry_sector": "Banking and wealth management.",
+  "business_need": "Explore whether drafting assistance can reduce routine administrative effort while retaining accurate summaries. Benefits and correction burden remain unmeasured.",
+  "users_stakeholders": "Bank employees, meeting participants, managers, and technology/risk reviewers.",
+  "adoption_posture": "Conservative / risk-averse.",
+  "capabilities_constraints": "Assume employees currently prepare summaries manually and can inspect the original notes. Human review is required. Model/vendor, approved data handling, integration, budget, and review effectiveness are unknown.",
+  "risk_consequence_context": "Lower consequence relative to client risk-profiling intake by scenario assumption, not risk-free. Omitted commitments, inaccurate summaries, and sensitive internal information remain concerns.",
+  "management_question": "How much should the technology’s broader significance influence evaluation of employee-reviewed administrative summarization, compared with its immediate workflow value? Do not infer production readiness."
+}
