@@ -63,4 +63,4 @@ Team rule: long-term technological importance must not become automatic advocacy
 
 AI and verification: ChatGPT generated user-supplied test outputs. Codex specialized the editable scaffold, built prompts, preserved outputs, ran basic validation and integrity checks, reviewed reasoning, and spot-checked primary sources. Meilin selected Provisional Breakthrough and explained the efficiency-versus-replacement intuition; AI helped refine the wording to the course's barrier-dissolution criterion. No actual bank deployment, measured benefit, or comprehensive evidence audit is claimed.
 
-Submission status: repository and candidate commit recorded; final Word record remains pending. Remote upload status should be verified separately.
+Submission status: repository and candidate commit recorded. Final Word record: Meilin_Assignment_4_Promethean_Agent_Record_v1.docx, produced after candidate/record commits. Its three rendered pages were visually checked.
